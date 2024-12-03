@@ -573,11 +573,7 @@ it's important for parents to monitor and regulate their children's gaming habit
 # What are the advantages and disadvantages of using robots?
 Using robots comes with its own set of pros and cons. 
 On the bright side,  robots can work tirelessly without getting tired,they can automate repetitive (re pet titive) tasks, making processes more efficient and saving time. 
-<<<<<<< Updated upstream
-They can take over dangerous or hazardous（嗨z dei s）tasks to keep our safe. 
-=======
 They can take over dangerous or hazardous（嗨z dei s） jobs to keep our safe. 
->>>>>>> Stashed changes
 
 However, there are drawbacks to consider as well. One major concern is the potential loss of jobs as robots replace human workers in certain industries. 
 There's also the issue of cost - acquiring and maintaining robots can be expensive. 
